@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Http;
 
 class MonitoringController2 extends Controller
 {
-    private $baseUrl = "https://monitoring-help-trpl-c-default-rtdb.asia-southeast1.firebasedatabase.app";
+    private $baseUrl = "https://drone-under-water-default-rtdb.asia-southeast1.firebasedatabase.app";
 
     public function index()
     {

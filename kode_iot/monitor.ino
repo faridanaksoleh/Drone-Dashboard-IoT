@@ -17,9 +17,9 @@
 // ========================
 // WIFI + FIREBASE
 // ========================
-const char* ssid = "Abu Ali";
-const char* password = "kalandra123";
-String firebaseHost = "https://monitoring-help-trpl-c-default-rtdb.asia-southeast1.firebasedatabase.app";
+const char* ssid = "Masya Allah";
+const char* password = "kucingmabok272807";
+String firebaseHost = "https://drone-under-water-default-rtdb.asia-southeast1.firebasedatabase.app";
 String devicePath = "/sensors/device_01";
 
 // ========================
